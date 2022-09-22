@@ -2,10 +2,6 @@
 
 /**
  * print_rev - print a string in reverse
-#include "main.h"
-
-/**
- * print_rev - print a string in reverse
  * @s: char array string
  */
 
