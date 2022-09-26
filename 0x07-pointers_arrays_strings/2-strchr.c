@@ -5,7 +5,7 @@
  * @s: array string
  * @c: char to look for
  * Description: locate character i n a string
- * Reutn: null if character not found
+ * Return: null if character not found
  */
 
 char *_strchr(char *s, char c)
