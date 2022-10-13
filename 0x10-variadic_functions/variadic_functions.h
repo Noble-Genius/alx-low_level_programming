@@ -10,6 +10,12 @@ void _printstr(va_list list);
 void _printfloat(va_list list);
 void _printint(va_list list);
 
+/**
+ * struct checker - multiple choice print
+ * @type: char Type of print
+ * @f: funct
+ */
+
 typedef struct checker
 {
 		char *type;
